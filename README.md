@@ -70,7 +70,7 @@ var text_pro = new TextPro()
 ```
 ## get Text Pro Url List
 ```ts
-var links = await text_pro.get_urls_list()
+var links = await text_pro.get_url_list()
 console.log(links)
 ```
 ```ts
